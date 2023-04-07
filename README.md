@@ -19,3 +19,11 @@ This PowerShell script uploads files with a specified extension from a specified
 
 - Make sure to replace the server URL in the script with the URL of your server before running it.
 - This script uses the `System.Net.Webclient` class to upload files.
+
+## Contributions
+
+Contributions are welcome! If you find any bugs or have suggestions for improving the script, please open an issue or submit a pull request.
+
+## License
+
+This script is released under the MIT License.
