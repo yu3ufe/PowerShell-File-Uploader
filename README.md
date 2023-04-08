@@ -2,6 +2,14 @@
 
 This PowerShell script uploads files with a specified extension from a specified directory and its subdirectories to a server.
 
+## Support
+
+If you find this project useful and would like to support its development, you can buy me a coffee by clicking the button below:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/yu3ufe)
+
+Your support is greatly appreciated!
+
 ## Usage
 
 1. Open the script in a text editor.
@@ -26,4 +34,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvin
 
 ## License
 
-This script is released under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
